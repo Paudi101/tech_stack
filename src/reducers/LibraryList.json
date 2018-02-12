@@ -33,6 +33,6 @@
   },
   {"id": 8,
   "title": "Axios",
-  "description": "Promise based HTTP client for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
+  "description": "Is a Promise based HTTP client for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
   }
 ]
