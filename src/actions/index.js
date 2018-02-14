@@ -1,6 +1,6 @@
 // Action Creators
-export const selectLibrary = (librayId) => {
-  return   {
+export const selectLibrary = (libraryId) => {
+  return {
     type: 'select_library',
     payload: libraryId
   };
