@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 import ListItem from './ListItem';
 
 class LibraryList extends Component {
-
   //Lifecycle method - called when we are about to render this component
   componentWillMount() {
     const ds = new ListView.DataSource({
